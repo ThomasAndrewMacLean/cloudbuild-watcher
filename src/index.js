@@ -77,7 +77,9 @@ const App = () => {
             )}
 
             <video
-             
+                loop
+                muted
+                controls
                 autoPlay
                 src="https://files.thomasmaclean.be/file/thomasmacleanbucket/demo.mp4"
             ></video>
