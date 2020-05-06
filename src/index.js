@@ -75,6 +75,12 @@ const App = () => {
                     <button onClick={breakBuild}>break it</button>
                 </div>
             )}
+
+            <video
+             
+                autoPlay
+                src="https://files.thomasmaclean.be/file/thomasmacleanbucket/demo.mp4"
+            ></video>
         </main>
     );
 };
